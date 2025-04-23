@@ -1,4 +1,4 @@
-module github.com/cristlee//go-common/redis
+module github.com/cristlee/go-common/redis
 
 go 1.20
 
